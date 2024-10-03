@@ -15,12 +15,13 @@
 5. git remote add keyword<link>
 <br>
 
-6. a.) git add .	<br>	
+6. <br>
+a.) git add .	<br>	
 Note : add all files in the current working directory.
 <br>
 
-  b.) git add <filename>  <br>
-  Note : Only add a specific files(not al the files).
+b.) git add <filename>  <br>
+Note : Only add a specific files(not al the files).
 <br>
 
 7. git status <br>
