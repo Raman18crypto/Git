@@ -31,7 +31,7 @@ Note : To see whether the file is commited or not.
 Note : It is the version of the file.
 <br>
 
-10. git push -u keyword master 
+10. git push -u keyword master <br>
 Note : Main can also be used keyword. <br>
 Note : Any keyword respective to correct english words can be taken.<br>
 #Eg: i)origin .. etc
