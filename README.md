@@ -15,23 +15,23 @@
 5. git remote add keyword<link>
 <br>
 
-6a. git add .	<br>	
+6. git add .	<br>	
 Note : add all files in the current working directory.
 <br>
 
-6b. git add <filename>  <br>
+7. git add <filename>  <br>
 Note : Only add a specific files(not al the files).
 <br>
 
-7. git status <br>
+8. git status <br>
 Note : To see whether the file is commited or not.
 <br>
 
-8. git commit - "Initial Commit"  <br>
+9. git commit - "Initial Commit"  <br>
 Note : It is the version of the file.
 <br>
 
-9. git push -u keyword master 
+10. git push -u keyword master 
 Note : Main can also be used keyword. <br>
 Note : Any keyword respective to correct english words can be taken.<br>
 #Eg: i)origin .. etc
